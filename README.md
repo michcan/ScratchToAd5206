@@ -8,7 +8,6 @@ J'ai créer un version spéciale de Firmata (cf. CustomFirmata)
 J'ai aussi modifier le fichier « scratch_command_handlers.py » de S2A.
 
 Pour contrôler un canal du ad5206 il suffit donc de :
-
 exporter CustomFirmata.ino sur l'arduino
 
 lancer S2A(version modifiée) dans le terminal
