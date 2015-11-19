@@ -9,4 +9,5 @@ J'ai aussi modifier le fichier « scratch_command_handlers.py » de S2A.
 Pour contrôler un canal du ad5206 il suffit donc de :
 exporter CustomFirmata.ino sur l'arduino
 lancer S2A(version modifiée) dans le terminal
+
 utiliser le bloc « Ecrire sur la broche PWM … la valeur … »
